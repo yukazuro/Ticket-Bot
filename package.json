@@ -1,0 +1,18 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "An open-source Discord ticket bot, which is fully customizable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "api",
+    "ticket",
+    "bot",
+    "customizable"
+  ],
+  "author": "Yukazuru <yukazuru@gmail.com> (Zoey)",
+  "license": "MIT"
+}
